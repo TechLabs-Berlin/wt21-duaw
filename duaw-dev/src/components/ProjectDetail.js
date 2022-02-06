@@ -193,8 +193,8 @@ const ProjectDetail = () => {
             </Grid>
           </Grid>
         
-            <Typography variant='h4'style={{margin:"50px 50px"}}>
-              You might like these too
+            <Typography variant='h5'style={{ fontWeight:"600", margin:"30px 50px 80px 50px"}}>
+              Similar Projects
             </Typography>
           <Grid container spacing={{ xs: 1, md: 2 }}>
           <Grid item xs={8} md={9}>
